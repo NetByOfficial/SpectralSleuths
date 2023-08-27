@@ -10,4 +10,14 @@ Telepítés:
 
 - Csomagolja ki a Rar fájlt amiben  a README.md is található.
 - kicsomagolás után telepítse fel a _Redist mappa tartalmát.
+- Ezután márcsak a játékot kell elindítania.
+
+---------
+Gépígény:
+---------
+
+- Operációs Rendszer(Windows 7, 8.1, 10, 11,)
+- Processzor(Core i3 2.4 Ghz / Core i5 2.8 Ghz [Ajánlott] / Magasabb)
+- Ram(4 GB / 8 [Ajánlott]
+
 

@@ -16,8 +16,11 @@ Telepítés:
 Gépígény:
 ---------
 
-- Operációs Rendszer(Windows 7, 8.1, 10, 11,)
+- Operációs Rendszer(Windows 7/8/10 64-bit)
 - Processzor(Core i3 2.4 Ghz / Core i5 2.8 Ghz [Ajánlott] / Magasabb)
 - Ram(4 GB / 8 [Ajánlott]
+- Videókártya(Nvidia GTX 660 /  AMD Radeon HD 7870 equivalent DX11 GPU / Magasabb)
+- DirectX(Tartalmazza a _Redist mappa [Ajánlott telepíteni], DirectX 11 / DirectX 12)
+
 
 
